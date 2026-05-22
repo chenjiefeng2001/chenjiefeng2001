@@ -18,9 +18,6 @@
 
 
 ## 🚀 精选项目 (Featured Projects)
-
-*为了符合简历标准，强烈建议在这里展示 2-3 个你最得意的项目。*
-
 | 项目名称 | 描述 | 技术栈 |
 | :--- | :--- | :--- |
 | **[Game Engine Demo]([https://github.com/chenjiefeng2001/...](https://github.com/chenjiefeng2001/Game-Engine-Demo))** | 一个用于技术验证的轻量游戏引擎） | `C++`|
