@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Chen Jiefeng</h1>
-  <h3>Software Engineer | Open Source Contributor</h3>
+  <h3>Software Engineer | Five Wave Maker</h3>
   
   <p align="center">
     <a href="https://git.io/typing-svg">
